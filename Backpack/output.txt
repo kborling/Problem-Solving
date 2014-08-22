@@ -1,0 +1,12 @@
+Backpack weight: 5, Loaded weight: 5, Benefit: 7
+Backpack weight: 7, Loaded weight: 5, Benefit: 13
+Backpack weight: 36, Loaded weight: 26, Benefit: 89
+Backpack weight: 18, Loaded weight: 0, Benefit: 0
+Backpack weight: 6, Loaded weight: 0, Benefit: 69
+Backpack weight: 76, Loaded weight: 76, Benefit: 241
+Backpack weight: 16, Loaded weight: 0, Benefit: 84
+Backpack weight: 52, Loaded weight: 48, Benefit: 315
+Backpack weight: 84, Loaded weight: 72, Benefit: 191
+Backpack weight: 94, Loaded weight: 85, Benefit: 375
+Backpack weight: 89, Loaded weight: 0, Benefit: 378
+Backpack weight: 18, Loaded weight: 0, Benefit: 155
